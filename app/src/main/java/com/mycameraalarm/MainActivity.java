@@ -17,9 +17,10 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity {
 
     /**
-     Copyright 23 Kasım Cumartesi 2019
+     Copyright 23 November, Saturday 2019
 
      YASİN EGE
+
      */
 
     private float heightDevice;
