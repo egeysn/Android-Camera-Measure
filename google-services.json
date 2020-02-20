@@ -1,0 +1,131 @@
+{
+  "project_info": {
+    "project_number": "1076317686955",
+    "firebase_url": "https://samsunradarproject.firebaseio.com",
+    "project_id": "samsunradarproject",
+    "storage_bucket": "samsunradarproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076317686955:android:8a4c0b7b98445d94c1bbee",
+        "android_client_info": {
+          "package_name": "com.ege.adminsamsunradar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076317686955-plmle97s87votemjqibl6tpfhgqniccn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ege.adminsamsunradar",
+            "certificate_hash": "29b4965d80f1ed826ccb1a6c0816de0dc29d144d"
+          }
+        },
+        {
+          "client_id": "1076317686955-d4a7p776ko356h6a741bkh5d1upglp5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi84U4H91bGa0U7mg1VDuEWbruVFq-Qo8"
+        },
+        {
+          "current_key": "AIzaSyD8Fg_WhEMh6dXyF7on-dDRY63JntVVSeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076317686955-d4a7p776ko356h6a741bkh5d1upglp5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076317686955:android:424acc006f5211bcc1bbee",
+        "android_client_info": {
+          "package_name": "com.mycameraalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076317686955-d4a7p776ko356h6a741bkh5d1upglp5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi84U4H91bGa0U7mg1VDuEWbruVFq-Qo8"
+        },
+        {
+          "current_key": "AIzaSyD8Fg_WhEMh6dXyF7on-dDRY63JntVVSeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076317686955-d4a7p776ko356h6a741bkh5d1upglp5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076317686955:android:54503edee962f565c1bbee",
+        "android_client_info": {
+          "package_name": "com.samsunradar.samsunradarproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076317686955-svi1b55rqjq5khpfcutqq728rkj7bulc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samsunradar.samsunradarproject",
+            "certificate_hash": "410648f39994de37c2da51793a5b0995f6d9679b"
+          }
+        },
+        {
+          "client_id": "1076317686955-6dqg5g9mhq914bl5343fa4mpbrhv7b41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samsunradar.samsunradarproject",
+            "certificate_hash": "29b4965d80f1ed826ccb1a6c0816de0dc29d144d"
+          }
+        },
+        {
+          "client_id": "1076317686955-d4a7p776ko356h6a741bkh5d1upglp5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi84U4H91bGa0U7mg1VDuEWbruVFq-Qo8"
+        },
+        {
+          "current_key": "AIzaSyD8Fg_WhEMh6dXyF7on-dDRY63JntVVSeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076317686955-d4a7p776ko356h6a741bkh5d1upglp5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
